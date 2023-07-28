@@ -1,5 +1,7 @@
 ## Tsup library template
 
+Forked Update to:
+
 A template to get you started library development based on tsup
 
 [Further explanation on blog post](https://orabazu.hashnode.dev/how-to-bundle-a-tree-shakable-typescript-library-for-web-with-tsup-and-publish-with-npm)
@@ -7,12 +9,12 @@ A template to get you started library development based on tsup
 ## Usage
 
 ```bash
-# using yarn
-yarn
+# using pnpm
+pnpm
 
 # Development build and watch changes
-yarn build:dev
+pnpm build:dev
 
 # Prod build
-yarn build:prod
+pnpm build:prod
 ```
