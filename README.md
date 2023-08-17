@@ -1,4 +1,5 @@
 ## Tsup library template
+[![Node.js CI](https://github.com/jordanburke/tsup-library-template/actions/workflows/node.js.yml/badge.svg)](https://github.com/jordanburke/tsup-library-template/actions/workflows/node.js.yml)
 
 Forked Update to:
 
